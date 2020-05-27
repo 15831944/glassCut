@@ -1,0 +1,36 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "bender"=".\bender.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+    {81B9117E-72B5-4DE3-963B-0A3F5B06F66B}
+    {0A8EF673-AFDE-4FFB-9FA8-344168F61424}
+    {769D5AAE-0342-424F-9ABD-386E44BA4123}
+    {9DA7072B-A6DB-4819-8FDC-C818CC82A02D}
+    {8C236C62-832C-441E-BA96-9FDB080C059E}
+    {648A5600-2C6E-101B-82B6-000000000014}
+    {C06EA015-E48A-4FF2-8862-28925C248B46}
+}}}
+
+###############################################################################
+
